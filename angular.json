@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "components-training"
+    }
+  },
+  "defaultProject": "components-training",
+  "cli": {
+    "analytics": false
+  }
 }
